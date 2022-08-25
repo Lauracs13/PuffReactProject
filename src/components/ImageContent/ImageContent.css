@@ -1,0 +1,11 @@
+.ImageContent{
+    display: block;   
+    width: 100%;
+    height: 100%;
+}
+
+.ImageContent img{
+    width: 100%;
+    height: 100%;
+
+}

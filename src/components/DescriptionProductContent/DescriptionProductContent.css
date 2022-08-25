@@ -1,0 +1,28 @@
+.DescriptionProductContent{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+gap: 16px;
+}
+.iconProductDescription{
+    display: block;
+    width: 100px;
+    height: 100px;
+}
+
+.iconProductDescription img{
+    width: 100%;
+    height: 100%;
+}
+
+.DescriptionProductContent p{
+    width: 50%;
+    text-align: center;
+}
+
+.line{
+    border: 2px solid gray;
+    width: 50px;
+}

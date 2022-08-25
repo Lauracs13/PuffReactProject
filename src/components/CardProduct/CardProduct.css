@@ -1,0 +1,10 @@
+.CardProduct {
+        display: grid;
+        grid-template-columns: repeat(2, 50%);  
+        grid-template-rows: 400px;     
+        align-items: stretch;
+    }
+.CardProduct:nth-child(even) .ImageContent {
+  
+    order: 1;
+}
