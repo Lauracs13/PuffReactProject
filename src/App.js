@@ -1,6 +1,7 @@
 import Header from './components/Header/Header'
 import ProductsContainer from './components/ProductsContainer/ProductsContainer';
 import BottomContent from './components/BottomContent/BottomContent';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Header/>
       <ProductsContainer/>
       <BottomContent/>
+      <Footer/>
     </div>
   );
 }

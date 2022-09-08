@@ -1,0 +1,14 @@
+.EmailValidation{
+    width: 30%;  
+}
+
+.EmailValidation input{
+    font-size: 1em;
+    width: 100%;
+    padding: 12px 20px
+}
+
+.alertMessage{
+    font-weight: bold;
+    color: red
+}

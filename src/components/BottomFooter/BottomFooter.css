@@ -1,0 +1,14 @@
+.BottomFooter{
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    border-top: solid 2px rgb(222, 219, 219);
+  align-items: center;
+  color: rgb(189, 186, 186);
+  padding-bottom: 1em;
+}
+
+.BottomFooter img{
+    width: 3em;
+    opacity: 0.7;
+}

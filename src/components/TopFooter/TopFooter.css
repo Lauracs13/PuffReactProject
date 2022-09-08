@@ -1,0 +1,37 @@
+.TopFooter {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 100px;
+  border-top: solid 5px rgb(222, 219, 219);
+}
+
+.cardFooter {
+  width: 15%; 
+  font-weight: bold;
+  font-size: smaller;
+  text-align: start;
+  
+}
+.cardContent {
+  display: flex;
+  align-items: flex-start;
+  line-height: 2em;
+  margin-top: 2em;
+}
+
+.cardContent img {
+  width: 5em;
+}
+.secondCardFooter{
+    width: 15%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    font-weight: bold;
+    font-size: smaller;   
+}
+
+.secondCardFooter img{
+width: 2em;
+}

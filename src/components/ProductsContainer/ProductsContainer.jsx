@@ -26,6 +26,13 @@ const productsData = [
         iconProduct: `${images.bag}`,
         title: "Pufi CART",
         description: "Descripción del producto. Este es un texto simulado.",
+      },
+      {
+        id: 4,
+        backgroundImage: `${images.nap}`,
+        iconProduct: `${images.pillow}`,
+        title: "Pufi NAP",
+        description: "Descripción del producto. Este es un texto simulado.",
       }
  
 ];

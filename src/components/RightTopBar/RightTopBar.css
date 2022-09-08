@@ -1,0 +1,15 @@
+.RightTopBar {
+    color: black;
+    font-size: 0.9em;
+    font-weight: 600;
+}
+.RightTopBar select{
+    border:none;
+    background-color: transparent
+}
+
+.RightTopBar img{
+    width:15px
+}
+
+

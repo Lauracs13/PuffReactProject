@@ -1,10 +1,8 @@
 .CardProduct {
-        display: grid;
-        grid-template-columns: repeat(2, 50%);  
-        grid-template-rows: 400px;     
-        align-items: stretch;
-    }
+  display: grid;
+  grid-template-columns: repeat(2, 50%);
+  align-items: stretch;
+}
 .CardProduct:nth-child(even) .ImageContent {
-  
-    order: 1;
+  order: 1;
 }
